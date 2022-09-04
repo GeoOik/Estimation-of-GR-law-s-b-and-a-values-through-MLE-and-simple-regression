@@ -1,0 +1,1 @@
+# Estimation-the-GR-law-s-b-and-a-values-through-MLE-and-simple-regression
